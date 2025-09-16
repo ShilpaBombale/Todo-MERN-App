@@ -1,4 +1,4 @@
-# To-Do List Dashboard
+# To-Do List 
 
 A full-stack **To-Do List** application with authentication and a modern dashboard UI.  
 Built using **Node.js (Express) + MongoDB** for the backend and **Next.js (React)** for the frontend.
